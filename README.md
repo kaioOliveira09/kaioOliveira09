@@ -1,4 +1,4 @@
-## Hi there 👋
+## Kaio Oliveira
 
  <div>
    <a href="https://github.com/kaioOliveira09">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para saber mais sobre mim e sobre minha carreira, Me segue nas redes!!
  
 <div> 
  <a href="https://www.instagram.com/kaio_doug06/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
